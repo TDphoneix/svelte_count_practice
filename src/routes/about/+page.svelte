@@ -4,6 +4,10 @@
 </p>
 </div>
 
+<svelte:head>
+    <title>about</title>
+</svelte:head>
+
 <style>
 .container {
     display: flex;

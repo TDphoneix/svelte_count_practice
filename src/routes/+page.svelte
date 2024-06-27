@@ -20,6 +20,10 @@
 </div>
 </div>
 
+<svelte:head>
+    <title>a counting app</title>
+</svelte:head>
+
 <style>
     .container {
         display: flex;
