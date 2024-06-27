@@ -29,7 +29,7 @@
         display: flex;
         flex-flow: column nowrap;
         align-items: center;
-        margin-top: 5rem;
+        margin-top: 3rem;
     }
 
     h1 {
