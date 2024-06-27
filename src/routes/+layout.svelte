@@ -2,7 +2,7 @@
     <nav>
         <a href="/">home</a>
         <a href="/about">about</a>
-        <a href="https://github.com" target="_blank">github</a>
+        <a href="https://github.com/TDphoneix/svelte_count_practice/tree/master" target="_blank">github</a>
     </nav>
 </div>
 <slot></slot>
